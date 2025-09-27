@@ -1,6 +1,6 @@
 # Documentación Completa de Pancracio
 
-Guía completa para programar en Pancracio, el lenguaje de programación con sintaxis culinaria en español y fácil.
+Guía completa para programar en Pancracio, el lenguaje de programación con sintaxis culinaria en español.
 
 ## Tabla de Contenidos
 
