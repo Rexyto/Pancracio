@@ -1,0 +1,11 @@
+
+testing/
+libro_de_recetas/
+
+.vscode/
+
+*.exe
+*.bat
+*.ese
+*.pan
+*.pansos
