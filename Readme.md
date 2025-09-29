@@ -233,7 +233,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## Soporte
 
-- **Documentación**: Ver `documentation.md`
+- **Documentación**: Ver `Manual de usuario.md`
 - **Issues**: [GitHub Issues](https://github.com/Rexyto/pancracio/issues)
 - **Discusiones**: [GitHub Discussions](https://github.com/Rexyto/pancracio/discussions)
 
